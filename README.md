@@ -8,3 +8,12 @@ method: 0 -> PointMax, 1 -> EdgeMax, 2 -> TotalRandom
 
 ## Example:
 hic_ncc_population2single O48.ncc O48.single.point.ncc 2 0
+
+## Excutable:
+/bin/hic_ncc_population2single_linux -> for linux machine
+/bin/hic_ncc_population2single_win64 -> for x64 windows machine
+/bin/hic_ncc_population2single_win86 -> for x86 windows machine
+
+## Help:
+
+if you have any question, please contact me at: yanmeng(a)sibs.ac.cn. replace (a) with @.
