@@ -17,7 +17,7 @@ hic_ncc_population2single O48.ncc O48.single.point.ncc 2 0
 /bin/hic_ncc_population2single_win86 -> for x86 windows machine
 
 ## Require
-Asp.net core 3.1
+.net core 3.1
 
 ## Help:
 
