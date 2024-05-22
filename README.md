@@ -1,5 +1,5 @@
 # hic_ncc_population2single
-Covert populational hic ncc format matrix to single cell matrix
+Covert populational hic ncc format matrix to Genome Khimaira matrix
 
 ## Usage: 
 hic_ncc_population2single [1.Input file name] [2.output file name] [3.threshold] [4.method]
