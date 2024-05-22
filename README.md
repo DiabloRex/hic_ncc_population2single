@@ -8,10 +8,10 @@ method: 0 -> PointMax, 1 -> EdgeMax, 2 -> TotalRandom
 
 threshold: minimal contact number for a valid contact
 
-## Example:
+## Example (2~3 min):
 hic_ncc_population2single A8.R1.ncc A8.R1.single.point.ncc 2 0
 
-## Excutable Installation:
+## Excutable Installation (1 min):
 /bin/hic_ncc_population2single_linux -> for linux machine
 
 /bin/hic_ncc_population2single_win64 -> for x64 windows machine
