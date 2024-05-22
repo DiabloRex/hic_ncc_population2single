@@ -11,7 +11,7 @@ threshold: minimal contact number for a valid contact
 ## Example:
 hic_ncc_population2single A8.R1.ncc A8.R1.single.point.ncc 2 0
 
-## Excutable:
+## Excutable Installation:
 /bin/hic_ncc_population2single_linux -> for linux machine
 
 /bin/hic_ncc_population2single_win64 -> for x64 windows machine
