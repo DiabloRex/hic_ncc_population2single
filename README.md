@@ -9,7 +9,7 @@ method: 0 -> PointMax, 1 -> EdgeMax, 2 -> TotalRandom
 threshold: minimal contact number for a valid contact
 
 ## Example:
-hic_ncc_population2single O48.ncc O48.single.point.ncc 2 0
+hic_ncc_population2single A8.R1.ncc A8.R1.single.point.ncc 2 0
 
 ## Excutable:
 /bin/hic_ncc_population2single_linux -> for linux machine
